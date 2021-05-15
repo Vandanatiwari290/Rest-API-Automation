@@ -1,0 +1,7 @@
+{
+  "addCourse":{
+    "id": "1",
+    "title": "java",
+    "description": "java is a good programming language"
+  }
+}
